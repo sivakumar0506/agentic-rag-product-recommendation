@@ -1,0 +1,182 @@
+[
+  {
+    "id": "P1",
+    "name": "iQOO Neo 7",
+    "price": 29999,
+    "description": "Powerful Dimensity processor for heavy gaming, AMOLED display, good camera, strong battery life, fast charging, ideal for gamers"
+  },
+  {
+    "id": "P2",
+    "name": "Redmi Note 12 Pro",
+    "price": 27999,
+    "description": "Excellent camera with OIS, balanced performance, AMOLED display, fast charging, suitable for photography and daily use"
+  },
+  {
+    "id": "P3",
+    "name": "Samsung Galaxy S23",
+    "price": 70000,
+    "description": "Premium flagship phone with compact design, top-tier camera, powerful processor, smooth performance"
+  },
+  {
+    "id": "P4",
+    "name": "Realme GT Neo 3",
+    "price": 31999,
+    "description": "High performance smartphone for gaming, ultra fast charging, AMOLED display, decent camera"
+  },
+  {
+    "id": "P5",
+    "name": "OnePlus Nord CE 3",
+    "price": 26999,
+    "description": "Clean Android experience, good camera, smooth performance, reliable battery life"
+  },
+  {
+    "id": "P6",
+    "name": "Motorola Edge 40",
+    "price": 24999,
+    "description": "Lightweight phone with clean Android, good camera quality, curved AMOLED display, decent gaming performance"
+  },
+  {
+    "id": "P7",
+    "name": "Poco X5 Pro",
+    "price": 22999,
+    "description": "Strong gaming performance in budget range, large AMOLED display, good battery backup, value for money"
+  },
+  {
+    "id": "P8",
+    "name": "Samsung Galaxy A34",
+    "price": 20999,
+    "description": "Reliable performance, good camera for daily photography, strong battery life, water resistance"
+  },
+  {
+    "id": "P9",
+    "name": "iPhone 13",
+    "price": 59999,
+    "description": "Premium smartphone with excellent camera and video quality, powerful processor, long software support"
+  },
+  {
+    "id": "P10",
+    "name": "Vivo V27",
+    "price": 32999,
+    "description": "Stylish smartphone with excellent selfie camera, good display quality, balanced performance"
+  },
+  {
+    "id": "P11",
+    "name": "Realme Narzo 60",
+    "price": 17999,
+    "description": "Affordable smartphone with decent camera, good battery life, suitable for students"
+  },
+  {
+    "id": "P12",
+    "name": "Samsung Galaxy M14",
+    "price": 14999,
+    "description": "Budget-friendly phone with massive battery, reliable performance for daily usage"
+  },
+  {
+    "id": "P13",
+    "name": "Infinix Zero 5G",
+    "price": 19999,
+    "description": "5G smartphone with good gaming performance, large display, strong battery backup"
+  },
+  {
+    "id": "P14",
+    "name": "Lava Agni 2",
+    "price": 21999,
+    "description": "Indian brand smartphone with strong performance, AMOLED display, fast charging"
+  },
+  {
+    "id": "P15",
+    "name": "Nothing Phone 1",
+    "price": 28999,
+    "description": "Unique design smartphone with clean Android, good camera, smooth performance"
+  },
+  {
+    "id": "P16",
+    "name": "Nothing Phone 2",
+    "price": 44999,
+    "description": "Premium design phone with strong performance, improved camera, clean user experience"
+  },
+  {
+    "id": "P17",
+    "name": "Samsung Galaxy F54",
+    "price": 34999,
+    "description": "Camera-focused smartphone with optical stabilization, long battery life, smooth display"
+  },
+  {
+    "id": "P18",
+    "name": "Oppo Reno 10",
+    "price": 32999,
+    "description": "Good camera smartphone with stylish design, balanced performance, fast charging"
+  },
+  {
+    "id": "P19",
+    "name": "Asus ROG Phone 6",
+    "price": 64999,
+    "description": "Ultimate gaming phone with powerful processor, advanced cooling, massive battery"
+  },
+  {
+    "id": "P20",
+    "name": "Samsung Galaxy Z Flip 4",
+    "price": 79999,
+    "description": "Foldable smartphone with premium design, flagship performance, good camera"
+  },
+  {
+    "id": "P21",
+    "name": "Tecno Spark 10",
+    "price": 9999,
+    "description": "Entry-level smartphone for basic usage, long battery life, suitable for first-time users"
+  },
+  {
+    "id": "P22",
+    "name": "Redmi 12",
+    "price": 11999,
+    "description": "Budget smartphone with decent display, reliable battery, suitable for daily tasks"
+  },
+  {
+    "id": "P23",
+    "name": "Samsung Galaxy S21 FE",
+    "price": 39999,
+    "description": "Flagship-level camera, smooth performance, premium build quality"
+  },
+  {
+    "id": "P24",
+    "name": "Vivo T2 5G",
+    "price": 18999,
+    "description": "Slim 5G smartphone with good performance, decent camera, long battery life"
+  },
+  {
+    "id": "P25",
+    "name": "Realme C55",
+    "price": 12999,
+    "description": "Budget smartphone with good camera for price, strong battery, suitable for students"
+  },
+  {
+    "id": "P26",
+    "name": "iQOO Z7",
+    "price": 18999,
+    "description": "Balanced smartphone with good camera, smooth performance, efficient processor"
+  },
+  {
+    "id": "P27",
+    "name": "Samsung Galaxy A14",
+    "price": 13999,
+    "description": "Reliable budget smartphone with long battery life, suitable for daily use"
+  },
+  {
+    "id": "P28",
+    "name": "Poco M6 Pro",
+    "price": 15999,
+    "description": "Budget gaming phone with good performance, large display, strong battery"
+  },
+  {
+    "id": "P29",
+    "name": "Motorola G73",
+    "price": 17999,
+    "description": "Clean Android smartphone with good camera, smooth performance, reliable battery"
+  },
+  {
+    "id": "P30",
+    "name": "Samsung Galaxy A54",
+    "price": 38999,
+    "description": "Premium mid-range phone with excellent camera, strong battery life, smooth display"
+  }
+]
