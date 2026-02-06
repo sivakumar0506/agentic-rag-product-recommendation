@@ -19,6 +19,8 @@ and LangChain.
 - HuggingFace Embeddings
 
 ## How to Run
+create .env file 
+```GROQ_API_KEY=your_groq_key```
 ```bash
 pip install -r requirements.txt
 python embeddings/vector_store.py
@@ -28,7 +30,7 @@ it displays:
 Describe what you want:
 type like -> give me a android phone under 30000 budget with good camera and gaming performance
 
-//output:
+##output:
 Best Recommendation:
 Realme C55
 
