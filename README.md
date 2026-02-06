@@ -30,7 +30,7 @@ it displays:
 Describe what you want:
 type like -> give me a android phone under 30000 budget with good camera and gaming performance
 
-##output:
+## output:
 Best Recommendation:
 Realme C55
 
